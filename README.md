@@ -8,7 +8,7 @@ The project aims to identify sales trends, profitability drivers, customer behav
 
 # Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Dashboard/Dashboard_Preview.png)
 
 ---
 
