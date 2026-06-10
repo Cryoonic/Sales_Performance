@@ -111,11 +111,11 @@ Monitor discount policies carefully to maintain healthy profit margins.
 
 | File | Description |
 |--------|-------------|
-| Sales_Analytics_Superstore.ipynb | Data cleaning and exploratory data analysis |
+| Sales Performance Analysis.ipynb | Data cleaning and exploratory data analysis |
 | superstore_cleaned.csv | Cleaned dataset |
 | Sales Performance.twbx | Tableau dashboard |
-| Business_Insight_Presentation.pdf | Business presentation |
-| dashboard_preview.png | Dashboard screenshot |
+| SALES PERFORMANCE.pdf | Business presentation |
+| Dashboard_Preview.png | Dashboard screenshot |
 
 ---
 
